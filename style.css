@@ -1,0 +1,32 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  
+  /* Add some content at the bottom of the video/page */
+  .content  {
+    position: absolute;
+    /* bottom: 0; */
+   
+    color: #f1f1f1;
+    width: 80%;
+    padding-top: 50px;
+  }
+ 
+
+  h5{
+    color: black;
+  }
+
+  .btn{
+    color: white;
+    background-color: rgb(2, 29, 68);
+  }
+.bt{
+  align-items: center;
+}
+
+
